@@ -42,7 +42,7 @@ def main():
       result=predict_note_authentication(UserID)
       st.image(result)
     if st.button("About"):
-      st.subheader("Developed by Ishu kumar")
+      st.subheader("Developed by Kratika Khandelwal")
       st.subheader(" Department of Computer Engineering")
 
 if __name__=='__main__':
